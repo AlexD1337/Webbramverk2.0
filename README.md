@@ -1,6 +1,7 @@
 # Webbramverk2.0
 ### `npm i` // `npm install` 
 Since the node_modules folder is deleted. npm i / npm install to install libraries.
+Install in both client folder and server folder
 
 
 ### Terminal in Client `npm start`
