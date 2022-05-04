@@ -4,7 +4,7 @@ import axios from 'axios';
 import './index.css';
 import GetTeachers from './getTeachers';
 
-
+// Alex
 function Personal() {
   const [email, setEmail] = useState(null);
   const [name , setName] = useState(null);
