@@ -2,6 +2,7 @@ import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import './index.css';
 
+// Sahin
 function Utbildningar() {
 
     const [name,setName] = useState(null)
