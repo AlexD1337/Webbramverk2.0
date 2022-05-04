@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './index.css'
+
+// Ganni
 function Kurser() {
     const [name, setName] = useState(null)
     const [length, setLength] = useState(0)
